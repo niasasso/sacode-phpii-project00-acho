@@ -26,3 +26,8 @@ Perintah untuk menguodate versi Git di Windows
 ```
 git update-git-for-windows
 ```
+
+perintah untuk cek status git
+```
+git status
+```
