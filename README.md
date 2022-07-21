@@ -1,17 +1,17 @@
 # Project00 - Persiapan Kelas
 
 # Garis Besar
- ✅Perkenalan
- ✅Spesifikasi laptop
- ✅Koneksi internet
- ✅Google Classroom
- ✅Google Calendar
- ✅GitHub
- ✅Git
- ✅Xampp (Apache, MySQL, PHPMyAdmin)
- ✅Text Editor
- ✅Web Browser
- ✅Discord
+✅Perkenalan <br>
+✅Spesifikasi laptop <br>
+✅Koneksi internet <br>
+✅Google Classroom <br>
+✅Google Calendar <br>
+✅GitHub <br>
+✅Git <br>
+✅Xampp (Apache, MySQL, PHPMyAdmin) <br>
+✅Text Editor <br>
+✅Web Browser <br>
+✅Discord <br>
 
 ## Catatan
 
@@ -47,7 +47,7 @@ Skrip PHP dan MySQL untuk membuat koneksi ke Database
 	$connection = mysqli_connect($hostname, $username, $database);
 
 	if($connection->connect_error){
-		echo "Koneksi Gagal!"
+		echo "Koneksi Gagal!";
 	} else{
 		echo "Koneksi Berhasil!";
 	}
